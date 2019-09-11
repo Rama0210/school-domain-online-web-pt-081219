@@ -1,5 +1,5 @@
 # code here!
 class School
-  def in
+  def initialize (name)
 end
   
